@@ -11,6 +11,10 @@ PeopleCounter is a library designed to simplify the creation of visitor counting
 - Non-blocking and blocking algorithm implementations
 - Easy to set up and use
 
+## Disclaimer
+
+- Don't use delays
+
 ## Installation
 
 1. Download the latest release from the [GitHub repository](https://github.com/george10hany77/People_Counter_Lib).
