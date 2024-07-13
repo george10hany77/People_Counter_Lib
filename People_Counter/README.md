@@ -42,5 +42,4 @@ void loop() {
     counter.runAlgorithm();
     Serial.print("Count: ");
     Serial.println(counter.getCount());
-    delay(1000);
 }
