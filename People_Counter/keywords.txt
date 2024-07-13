@@ -1,0 +1,8 @@
+PeopleCounter   KEYWORD1
+setSensor1Pin   KEYWORD2
+setSensor2Pin   KEYWORD2
+setMode         KEYWORD2
+getCount        KEYWORD2
+begin           KEYWORD2
+runAlgorithmBlocking KEYWORD2
+runAlgorithm    KEYWORD2
