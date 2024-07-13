@@ -19,5 +19,4 @@ void loop() {
     counter.runAlgorithm();  // Call runAlgorithm to process sensor inputs
     Serial.print("Visitor Count: ");
     Serial.println(counter.getCount());  // Print the current count
-    delay(500);  // Wait for 500ms before the next loop iteration
 }

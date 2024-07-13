@@ -21,6 +21,4 @@ void loop() {
     Serial.print(counterZone1.getCount());
     Serial.print(" | Zone 2 Count: ");
     Serial.println(counterZone2.getCount());  // Print the counts for both zones
-    
-    delay(500);  // Wait for 500ms before the next loop iteration
 }

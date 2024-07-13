@@ -26,6 +26,4 @@ void loop() {
     } else {
         counter.setMode(PeopleCounter::ACTIVE_HIGH);
     }
-    
-    delay(500);  // Wait for 500ms before the next loop iteration
 }
